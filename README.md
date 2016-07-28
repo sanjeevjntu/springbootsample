@@ -12,3 +12,8 @@
 #git commit -m "added modified chanegs"
 #git push
 #git pull
+#git add -A
+#git commit -m "Added for some reason HEAD is  mine"
+#git add -A
+#git commit 
+#escape :wq
